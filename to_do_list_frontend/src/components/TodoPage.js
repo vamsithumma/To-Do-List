@@ -47,6 +47,7 @@ const TodoPage = () => {
               </div> 
               </div>
             </form>    
+            <p className='fst-italic text-center'>View Yours tasks on Your-Tasks tab.</p>
         </div>
       </div>
     </>

@@ -16,7 +16,7 @@ function OffcanvasExample() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="/listalltodos" className='fw-bold fs-5'>Your Tasks</Nav.Link>
+              <Nav.Link href="/listalltodos" className='fw-bold fs-5'>Your-Tasks</Nav.Link>
               <Nav.Link href="#action2" className='fw-bold fs-5'>About</Nav.Link>
             </Nav>
             <Nav className="ml-auto"> {/* Use ml-auto to align to the right on larger screens */}
